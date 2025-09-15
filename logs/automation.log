@@ -1,0 +1,230 @@
+2025-09-15 00:07:53 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 00:07:53 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 00:07:54 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 00:07:54 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 00:07:57 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 00:07:57 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 00:08:00 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 00:08:01 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 00:08:03 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 00:08:03 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 00:08:03 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 17:59:21 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 17:59:21 ERROR TC001_AccountRegistration:44 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-09-15 17:59:21 DEBUG TC001_AccountRegistration:45 - debug logs....
+2025-09-15 17:59:21 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 17:59:21 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 17:59:21 ERROR TC002_LoginTest:40 - Failed to login
+2025-09-15 17:59:21 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 17:59:24 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 17:59:24 ERROR TC001_AccountRegistration:44 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-09-15 17:59:24 DEBUG TC001_AccountRegistration:45 - debug logs....
+2025-09-15 17:59:24 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 17:59:24 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 17:59:24 ERROR TC002_LoginTest:40 - Failed to login
+2025-09-15 17:59:24 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 18:26:58 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 18:26:59 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 18:26:59 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 18:26:59 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 18:27:01 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 18:27:01 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 18:27:03 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 18:27:04 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 18:27:04 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 18:27:05 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 18:27:05 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 18:30:24 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 18:30:24 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 18:30:25 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 18:30:25 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 18:30:28 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 18:30:28 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 18:30:32 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 18:30:32 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 18:30:33 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 18:30:34 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 18:30:34 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 18:57:04 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 18:57:04 ERROR TC001_AccountRegistration:44 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-09-15 18:57:04 DEBUG TC001_AccountRegistration:45 - debug logs....
+2025-09-15 18:57:04 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 18:57:04 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 18:57:04 ERROR TC002_LoginTest:40 - Failed to login
+2025-09-15 18:57:04 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 19:13:07 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 19:13:08 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 19:13:08 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 19:13:08 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 19:13:10 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 19:13:10 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 19:13:11 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 19:13:12 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 19:13:12 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 19:13:13 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 19:13:13 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 19:14:02 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 19:14:03 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 19:14:03 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 19:14:03 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 19:14:04 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 19:14:04 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 19:14:09 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 19:14:10 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 19:14:11 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 19:14:11 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 19:14:11 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 19:42:53 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 19:42:54 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 19:42:54 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 19:42:54 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 19:42:57 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 19:42:57 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 19:43:01 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 19:43:02 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 19:43:02 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 19:43:03 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 19:43:03 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 19:43:12 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 19:43:12 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 19:43:13 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 19:43:13 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 19:43:15 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 19:43:15 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 19:43:19 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 19:43:20 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 19:43:20 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 19:43:21 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 19:43:21 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:16:35 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:16:35 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:16:36 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:16:36 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:16:38 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:16:38 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:16:40 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:16:40 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:16:41 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:16:41 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:16:41 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:16:53 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:16:53 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:16:54 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:16:54 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:16:57 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:16:57 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:17:03 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:17:04 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:17:06 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:17:06 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:17:06 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:17:34 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:17:34 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:17:36 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:17:36 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:17:37 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:17:37 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:17:40 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:17:40 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:17:42 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:17:42 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:17:42 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:17:52 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:17:52 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:17:53 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:17:53 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:17:55 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:17:55 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:18:02 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:18:02 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:18:03 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:18:04 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:18:04 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:18:33 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:18:34 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:18:34 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:18:34 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:18:36 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:18:36 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:18:39 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:18:39 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:18:40 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:18:41 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:18:41 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:18:49 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:18:49 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:18:50 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:18:50 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:18:52 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:18:52 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:18:57 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:18:58 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:18:59 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:18:59 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:18:59 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:29:45 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:29:45 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:29:46 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:29:46 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:29:48 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:29:48 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:29:49 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:29:50 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:29:51 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:29:52 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:29:52 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 20:30:05 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 20:30:05 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 20:30:07 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 20:30:07 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 20:30:11 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 20:30:11 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 20:30:19 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 20:30:20 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 20:30:21 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 20:30:21 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 20:30:21 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 21:10:01 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 21:10:02 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 21:10:03 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 21:10:03 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 21:10:06 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 21:10:06 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 21:10:08 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 21:10:08 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 21:10:09 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 21:10:09 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 21:10:09 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 22:13:50 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 22:13:50 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 22:13:51 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 22:13:51 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 22:13:54 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 22:13:54 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 22:13:56 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 22:13:57 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 22:13:57 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 22:13:58 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 22:13:58 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 22:17:15 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 22:17:15 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 22:17:17 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 22:17:17 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 22:17:19 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 22:17:19 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 22:17:23 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 22:17:24 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 22:17:24 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 22:17:25 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 22:17:25 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
+2025-09-15 22:25:09 INFO  TC001_AccountRegistration:16 - ***** Starting TC0001_AccountRegistration *****
+2025-09-15 22:25:10 INFO  TC001_AccountRegistration:20 - Clicked on MyAccount Link..
+2025-09-15 22:25:10 INFO  TC001_AccountRegistration:22 - Clicked on Register Link..
+2025-09-15 22:25:10 INFO  TC001_AccountRegistration:25 - Providing User details..
+2025-09-15 22:25:13 INFO  TC001_AccountRegistration:39 - Validating expected message...
+2025-09-15 22:25:13 INFO  TC001_AccountRegistration:51 - ***** Finished TC001_AccountRegistration *****
+2025-09-15 22:25:16 INFO  TC002_LoginTest:16 - ***** Starting TC002_LoginTest *****
+2025-09-15 22:25:17 INFO  TC002_LoginTest:23 - Navigated to Home Page..
+2025-09-15 22:25:18 INFO  TC002_LoginTest:30 - Navigated to Login Page..
+2025-09-15 22:25:19 INFO  TC002_LoginTest:36 - Successful Login
+2025-09-15 22:25:19 INFO  TC002_LoginTest:45 - ***** Finished TC002_LoginTest *****
